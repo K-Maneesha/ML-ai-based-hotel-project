@@ -45,13 +45,10 @@ Step 4: Run the application
 python -m streamlit run app1.py
 📊 Output Screenshots
 🔹 Room Demand Prediction
-![Demand Prediction](screenshot/room demand.PNG)
 
 🔹 Seasonal Pricing Prediction
-![Pricing Prediction](screenshot/seasonal pricing.PNG)
 
 🔹 Sentiment Analysis
-![Sentiment Analysis](screenshot/sentimental analysis.PNG)
 
 📈 Results
 Random Forest model provides accurate room demand prediction
