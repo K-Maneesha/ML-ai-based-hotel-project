@@ -52,27 +52,27 @@ This project provides a smart AI-based solution for hotel management.
 - [Trip Advisor Hotel Reviews Dataset](https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews)
 ---
 
-# ⚙️ How to Run the Project
+## ⚙️ How to Run the Project
 
-## Step 1: Clone Repository
-
-```bash
-git clone https://github.com/K-Maneesha/ai-based-hotel-management.git
-```
-
-## Step 2: Open Project Folder
+### Step 1: Clone Repository
 
 ```bash
-cd ai-based-hotel-management
+git clone https://github.com/K-Maneesha/ML-ai-based-hotel-project.git
 ```
 
-## Step 3: Install Requirements
+### Step 2: Open Project Folder
+
+```bash
+cd ML-ai-based-hotel-project
+```
+
+### Step 3: Install Requirements
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Step 4: Run Streamlit Application
+### Step 4: Run Streamlit Application
 
 ```bash
 python -m streamlit run app1.py
