@@ -3,6 +3,13 @@
 An intelligent hotel management system that uses Machine Learning and NLP techniques to predict room demand, estimate seasonal pricing, and analyze customer reviews through an interactive Streamlit web application.
 
 ---
+# 🚀 Live Application
+
+🔗 Streamlit Deployment:
+https://ml-ai-based-hotel-project-clppwilnrqmagt2qu4y7ei.streamlit.app/
+
+---
+
 
 # 📌 Project Overview
 
@@ -120,6 +127,8 @@ This project demonstrates how Machine Learning can improve hotel management thro
 The system is scalable and suitable for real-world hotel applications.
 
 ---
+
+
 
 ## ⭐ GitHub Repository
 
